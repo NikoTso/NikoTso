@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40mwendakelvinblog%2Fc-the-language-revolutionising-modern-software-development-415a0080337a&psig=AOvVaw0WKw_sQNfZdZYXEBZGrUq2&ust=1749854288966000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjUk8b57I0DFQAAAAAdAAAAABAE" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40mwendakelvinblog%2Fc-the-language-revolutionising-modern-software-development-415a0080337a&psig=AOvVaw0WKw_sQNfZdZYXEBZGrUq2&ust=1749854288966000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjUk8b57I0DFQAAAAAdAAAAABAE](https://procoders.tech/wp-content/uploads/2023/05/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-removebg-preview.png)" />
   <img width="12" />
 </div>
 
