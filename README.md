@@ -28,9 +28,6 @@
   <img width="12" />
 </div>
 
-###
-
-<img align="left" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d5a16489-a23f-4ff1-90fb-17ce54206e7e/dfd6mbc-02e0d7c5-dbee-4bd9-8283-917679baf413.png/v1/fill/w_894,h_894,q_70,strp/oneshot___niko__the_world_machine__by_hadeesmi_dfd6mbc-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2Q1YTE2NDg5LWEyM2YtNGZmMS05MGZiLTE3Y2U1NDIwNmU3ZVwvZGZkNm1iYy0wMmUwZDdjNS1kYmVlLTRiZDktODI4My05MTc2NzliYWY0MTMucG5nIiwid2lkdGgiOiI8PTEwODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.gM5Ol_Lyt3ghEI2KicleALgf6MEIHNMGE3BMqw_exgk"  />
 
 ###
 
