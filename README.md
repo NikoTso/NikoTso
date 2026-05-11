@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Bem vindo! Sou o Gabriel!🎇🎆
+<br>Estudante de Engenharia de Software com sólida base em Mecatrônica. Foco em desenvolvimento back-end, sistemas full stack e integração hardware-software.
 
 
 # 💻 Tech Stack:
