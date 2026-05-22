@@ -15,9 +15,9 @@
 
 **Hardware & Embarcados**
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-<br>
+<br> <br>
 **Framework**
-!Scrum
+<br>Scrum
 
 ### 🚀 Portifolio
 
