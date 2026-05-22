@@ -18,7 +18,7 @@
 
 ### 🚀 Portifolio
 
-* **Portifolio: https://github.com/NikoTso/Ludus](https://repositorio-alpha-seven.vercel.app/**
+* **Portifolio: https://repositorio-alpha-seven.vercel.app/**
 
 ### 🚀 Projetos em Destaque
 * **[Ludos](https://github.com/NikoTso/Ludus):** API RESTful desenvolvida em Node.js integrada ao PostgreSQL. O ambiente conta com conteinerização via Docker e validação de endpoints através de testes automatizados com Jest.
