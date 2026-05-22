@@ -16,6 +16,10 @@
 **Hardware & Embarcados**
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
+### 🚀 Portifolio
+
+* **[portifolio] (https://repositorio-alpha-seven.vercel.app/):** 
+
 ### 🚀 Projetos em Destaque
 * **[Ludos](https://github.com/NikoTso/Ludus):** API RESTful desenvolvida em Node.js integrada ao PostgreSQL. O ambiente conta com conteinerização via Docker e validação de endpoints através de testes automatizados com Jest.
 * **[Projeto de IA com Go](https://github.com/NikoTso/Projeto-de-IA):** Integração e testes de consumo da API do Google Gemini utilizando a linguagem Go.
